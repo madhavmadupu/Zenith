@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "LM-Regular";
+    src: url("./Assets/Fonts/lemon-milk/LemonMilkRegular-X3XE2.otf");
+}
+@font-face {
+    font-family: "LM-RegularItalic";
+    src: url("./Assets/Fonts/lemon-milk/LemonMilkRegularItalic-L3AEy.otf");
+}
+@font-face {
+    font-family: "LM-Medium";
+    src: url("./Assets/Fonts/lemon-milk/LemonMilkMedium-mLZYV.otf");
+}
+@font-face {
+    font-family: "LM-MediumItalic";
+    src: url("./Assets/Fonts/lemon-milk/LemonMilkMediumItalic-d95nl.otf");
+}
+@font-face {
+    font-family: "LM-Light";
+    src: url("./Assets/Fonts/lemon-milk/LemonMilkLight-owxMq.otf");
+}
+@font-face {
+    font-family: "LM-LightItalic";
+    src: url("./Assets/Fonts/lemon-milk/LemonMilkLightItalic-7BjPE.otf");
+}
+@font-face {
+    font-family: "LM-Bold";
+    src: url("./Assets/Fonts/lemon-milk/LemonMilkBold-gx2B3.otf");
+}
+@font-face {
+    font-family: "LM-BoldItalic";
+    src: url("./Assets/Fonts/lemon-milk/LemonMilkBoldItalic-PKZ3P.otf");
+}
+
+:root{
+    --main-color: #01ffb7;
+    --dark-theme: rgb(26, 27, 27);
+}
+
+/* ----------------------------------------------------------------------- */
+
+
+#mainlogo{
+    font-family: "LM-Bold";
+    color: var(--main-color);
+}
